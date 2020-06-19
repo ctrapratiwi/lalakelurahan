@@ -30,7 +30,7 @@
 
         	<div class="col-lg-12">
                 <div class="box">
-                <h4>Input Data Kasus Covid'19 Provinsi Bali</h4>
+                <h4>Input Data Kasus Covid'19 di Bali</h4>
                 @if (session('alert'))
                     <div class="alert alert-success">
                         {{ session('alert') }}
