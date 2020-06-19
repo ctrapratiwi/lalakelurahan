@@ -73,26 +73,26 @@
 
         <div class="row info">
                 <div class="box col-lg-2">
-                    <h5 class="title">POSITIF</h5>
+                    <h5 class="title">Positif</h5>
                     <p></p>
                     <h3>{{$totalPositif[0]->total}} Orang</h3><br />
                 </div>
 
 
                 <div class="box col-lg-2">
-                    <h5 class="title3">PENANGANAN</h5>
+                    <h5 class="title3">Penanganan</h5>
                     <p></p>
                     <h3>{{$totalDirawat[0]->perawatan}} Orang</h3><br />
                 </div>
 
             	<div class="box col-lg-2">
-                    <h5 class="title2">SEMBUH</h5>
+                    <h5 class="title2">Sembuh</h5>
                     <p></p>
                     <h3>{{$totalSembuh[0]->sembuh}} Orang</h3><br />
                 </div>
 
     			<div class="box col-lg-2">
-                    <h5 class="title4">MENINGGAL</h5>
+                    <h5 class="title4">Meninggal</h5>
                     <p></p>
                     <h3>{{$totalMeninggal[0]->meninggal}} Orang</h3><br />
                 </div>
