@@ -29,10 +29,10 @@
 <div class="container-fluid">
 	<div class="row header">
     	<div class="col-lg-1">
-			<img src="" class="img-responsive">
+			<img src="/image/Logo1.png" class="img-responsive">
         </div>
 		<div class="col-lg-10 judul text-left">
-    		<h2>Data Kasus Covid'19 Provinsi Bali</h2>
+    		<h2>Informasi Kasus Covid'19 Provinsi Bali</h2>
        	</div>
 
         <div class="row col-lg-1">
